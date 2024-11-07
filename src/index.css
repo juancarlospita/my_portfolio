@@ -67,5 +67,7 @@
   }
   .section {
     @apply py-8 lg:py-24 lg:h-screen flex items-center;
+    scroll-margin-bottom: 80px; /* Ajusta este valor al tamaño de tu navbar */
   }
+  
 }
