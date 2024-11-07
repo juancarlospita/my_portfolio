@@ -7,7 +7,7 @@ import About from './components/About';
 import Services from './components/Services';
 import Work from './components/Work';
 import Contact from './components/Contact';
-// import Carousel from './components/Carousel';
+// import Carousel from './components/Carousel'; en proceso
 
 const App = () => {
   return (
